@@ -1,3 +1,9 @@
 config:
     audience: The Whole Wide World!
     greeting: Guten Morgen!
+security:
+    basic:
+        enabled: false
+management:
+    security:
+        enabled: false
