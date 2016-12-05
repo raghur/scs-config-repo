@@ -1,5 +1,5 @@
 config:
-    audience: The Whole Wide World!
+    audience: onlymemmemem
     greeting: Guten Morgen!
 security:
     basic:
