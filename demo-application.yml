@@ -1,5 +1,5 @@
 config:
-    audience: onlymemmemem
+    audience: me me me!
     greeting: Guten Morgen!
 security:
     basic:
