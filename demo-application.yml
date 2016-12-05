@@ -1,5 +1,5 @@
 config:
-    audience: me me me!
+    audience: poc skunkworks!
     greeting: Guten Morgen!
 security:
     basic:
