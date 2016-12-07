@@ -1,6 +1,3 @@
 spring:
     zipkin:
         baseUrl: http://zipkin.local.pcfdev.io
-    sleuth:
-        sampler:
-            percentage: 1.0
